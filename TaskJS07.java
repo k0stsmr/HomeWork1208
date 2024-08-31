@@ -18,7 +18,7 @@ public class HomeTaskJS07
 
         switch (sign)
         {
-            case '43':
+            case "+":
                 c = a + b;
                 System.out.println("Результат операции '+': " + c);
                 break;
